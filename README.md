@@ -1,3 +1,3 @@
 # under construction 
 
-Simple temporary page. https://github.io/smlum/under-construction 
+Simple temporary page.  https://smlum.github.io/under-construction/
